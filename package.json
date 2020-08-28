@@ -1,0 +1,25 @@
+{
+  "name": "nutechcrudapi",
+  "version": "1.0.0",
+  "description": "Test Programming PT. Nutech Integrasi dengan membuat Program CRUD menggunakan NodeJS Express dan MongoDB",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.1",
+    "mongoose-integer": "^0.1.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4",
+    "sharp": "^0.26.0",
+    "validator": "^13.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "CRUD"
+  ],
+  "author": "RIZKY",
+  "license": "ISC"
+}

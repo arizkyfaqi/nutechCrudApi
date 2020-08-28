@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "5f48d8f798aa904ed0004adf"
+  },
+  "namaBarang": "Server Sun Oracle",
+  "hargaBeli": 50000000,
+  "hargaJual": 60000000,
+  "stok": 5,
+  "fotoBarang": "nutech-barang-1598609655599-server-sun.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f48d94f98aa904ed0004ae0"
+  },
+  "namaBarang": " Samsung TV",
+  "hargaBeli": 5000000,
+  "hargaJual": 6000000,
+  "stok": 10,
+  "fotoBarang": "nutech-barang-1598609742966-samsung-tv.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f48d9a998aa904ed0004ae1"
+  },
+  "namaBarang": "Kulkas Dua Pintu",
+  "hargaBeli": 7800000,
+  "hargaJual": 8900000,
+  "stok": 3,
+  "fotoBarang": "nutech-barang-1598609833440-kulkas.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f48d9f098aa904ed0004ae2"
+  },
+  "namaBarang": "Microwave",
+  "hargaBeli": 6700000,
+  "hargaJual": 7500000,
+  "stok": 4,
+  "fotoBarang": "nutech-barang-1598609904535-microwave.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f48da2998aa904ed0004ae3"
+  },
+  "namaBarang": "Konektor RJ45",
+  "hargaBeli": 130000,
+  "hargaJual": 150000,
+  "stok": 13,
+  "fotoBarang": "nutech-barang-1598609961075-rj45.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f48da6b98aa904ed0004ae4"
+  },
+  "namaBarang": "Sonic CCTV",
+  "hargaBeli": 2000000,
+  "hargaJual": 2500000,
+  "stok": 8,
+  "fotoBarang": "nutech-barang-1598610027009-cctv.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f48da9d98aa904ed0004ae5"
+  },
+  "namaBarang": "Monitor Alienware",
+  "hargaBeli": 10000000,
+  "hargaJual": 11000000,
+  "stok": 5,
+  "fotoBarang": "nutech-barang-1598610076897-alienware.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f48dadb98aa904ed0004ae6"
+  },
+  "namaBarang": "Xiaomi redmi note 5",
+  "hargaBeli": 3500000,
+  "hargaJual": 4000000,
+  "stok": 5,
+  "fotoBarang": "nutech-barang-1598610139354-note5.jpg",
+  "__v": 0
+}]
